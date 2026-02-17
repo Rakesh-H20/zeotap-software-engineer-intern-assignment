@@ -21,7 +21,5 @@ On restart, all IN_PROGRESS steps are cleaned.
 ```bash
 mvn clean package
 java -cp target/durable-engine-1.0.jar app.Main
-
-### Simulate Crash
-```bash
 java -jar target/durable-engine-1.0.jar crash
+java -cp target/durable-engine-1.0.jar app.Main
