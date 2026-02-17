@@ -10,7 +10,7 @@ zeotap-software-engineer-intern-assignment
 ├── assignment-1-durable-engine
 │   └── Native Durable Execution Engine (Java)
 └── assignment-2-fanout-engine
-└── High-Throughput Fan-Out Engine (Java)
+    └── High-Throughput Fan-Out Engine (Java)
 
 ```
 
