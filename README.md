@@ -4,16 +4,14 @@ ZEOTAP ASSIGNMENT
 Zeotap Software Engineer Intern Assignment
 
 This repository contains my solutions for the Zeotap Software Engineer Intern technical assignment.
-The implementations focus on durability, fault tolerance, concurrency, and scalable backend system design.
-
-
-Repository Structure
+The implementations focus on durability, fault tolerance, concurrency, and scalable backend system design.Repository Structure
 
 zeotap-software-engineer-intern-assignment
 ├── assignment-1-durable-engine
 │   └── Native Durable Execution Engine (Java)
 └── assignment-2-fanout-engine
 └── High-Throughput Fan-Out Engine (Java)
+
 ```
 
 ## Assignment 1: Native Durable Execution Engine
@@ -36,7 +34,7 @@ java -jar target/durable-engine-1.0.jar
 To simulate a crash:
 java -jar target/durable-engine-1.0.jar crash
 
-To resume
+To resume:
 java -cp target/durable-engine-1.0.jar app.Main
 ```
 
