@@ -81,8 +81,6 @@ java -cp target/fanout-engine-1.0.jar app.Main
 * All dependencies are bundled for ease of execution
 * Detailed design explanations are provided in the submitted PDF
 
----
-
 
 If you want, I can do **one last full submission checklist sign-off** and say “SUBMIT NOW” with confidence.
 ```
