@@ -3,7 +3,7 @@ ZEOTAP ASSIGNMENT
 ```md
 # Zeotap Software Engineer Intern Assignment
 
-This repository contains my solutions for the **Zeotap Software Engineer Intern** technical assignment.
+This repository contains my solutions for the Zeotap Software Engineer Intern technical assignment.
 The implementations focus on durability, fault tolerance, concurrency, and scalable backend system design.
 
 ---
@@ -17,8 +17,7 @@ zeotap-software-engineer-intern-assignment
 └── High-Throughput Fan-Out Engine (Java)
 
 ```
-
-
+---
 
 ---
 
