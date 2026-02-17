@@ -1,0 +1,19 @@
+Prompt 1:
+"Design a high-throughput fan-out engine in Java that reads large input files using streaming
+and distributes records concurrently to multiple downstream sinks."
+
+Prompt 2:
+"Suggest a clean Java architecture using strategy and dispatcher patterns to support
+different data transformations and sink types such as REST, gRPC, queues, and databases."
+
+Prompt 3:
+"Explain how to implement concurrency, retries, and backpressure in a Java-based
+fan-out data pipeline."
+
+Prompt 4:
+"Provide best practices for fault tolerance, retry handling, and scalability
+in distributed data processing systems."
+
+Prompt 5:
+"Recommend a Maven-based project structure for a scalable and extensible
+fan-out and transformation engine."

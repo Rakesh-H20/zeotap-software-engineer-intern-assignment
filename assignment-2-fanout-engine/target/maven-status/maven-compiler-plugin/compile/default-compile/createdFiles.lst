@@ -1,0 +1,10 @@
+dispatcher\FanOutDispatcher.class
+sink\RestSink.class
+sink\Sink.class
+sink\GrpcSink.class
+transform\JsonTransformer.class
+transform\Transformer.class
+sink\DbSink.class
+app\Main.class
+transform\XmlTransformer.class
+sink\QueueSink.class

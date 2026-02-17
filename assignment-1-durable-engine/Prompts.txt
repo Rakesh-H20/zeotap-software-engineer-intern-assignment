@@ -1,0 +1,20 @@
+Prompt 1:
+"Design a native durable execution engine in Java inspired by Temporal and Azure Durable Functions. 
+The engine should support step memoization, crash recovery, sequence tracking, and concurrency 
+using standard Java constructs and an RDBMS for persistence."
+
+Prompt 2:
+"Explain how to implement exactly-once execution semantics for side-effecting operations 
+using a step abstraction and persistent storage."
+
+Prompt 3:
+"Suggest a clean Java API for a step primitive that allows normal Java code 
+(loops, conditionals, CompletableFuture-based concurrency) to become durable."
+
+Prompt 4:
+"How can zombie steps (crash between execution and commit) be detected and safely handled 
+in a durable workflow system?"
+
+Prompt 5:
+"Provide guidance on structuring a Maven-based Java project for a durable workflow engine, 
+including persistence, concurrency handling, and CLI-based workflow execution."
