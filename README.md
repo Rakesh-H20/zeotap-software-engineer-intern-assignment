@@ -39,12 +39,10 @@ Temporal and Azure Durable Functions.
 mvn clean package
 java -jar target/durable-engine-1.0.jar
 
-
 To simulate a crash:
+java -jar target/durable-engine-1.0.jar crash
 
-```bash
-java -jar target/durable-engine-1.0.jar crash
-java -jar target/durable-engine-1.0.jar crash
+To resume
 java -cp target/durable-engine-1.0.jar app.Main
 ```
 
@@ -81,6 +79,3 @@ java -cp target/fanout-engine-1.0.jar app.Main
 * All dependencies are bundled for ease of execution
 * Detailed design explanations are provided in the submitted PDF
 
-
-If you want, I can do **one last full submission checklist sign-off** and say “SUBMIT NOW” with confidence.
-```
